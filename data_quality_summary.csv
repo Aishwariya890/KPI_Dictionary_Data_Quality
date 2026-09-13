@@ -1,0 +1,10 @@
+Quality Dimension,Result,Status
+Completeness,97.22%,FAIL
+Order ID Uniqueness,8.33%,FAIL
+Order Date Validity,3 invalid,FAIL
+Quantity Validity,2 invalid,FAIL
+Unit Price Validity,0 invalid,PASS
+Discount Validity,2 invalid,FAIL
+Customer Segment Consistency,0 invalid,PASS
+Payment Status Consistency,3 invalid,FAIL
+City Completeness,1 missing,FAIL
